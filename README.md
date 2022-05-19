@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 TextileAndGarmentManagementSystem"# ooc-project-gavidya" 
 =======
 TextileAndGarmentManagementSystem"# ooc-project-gavidya" 
